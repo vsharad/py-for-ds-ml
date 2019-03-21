@@ -1,2 +1,2 @@
-# py-for-ds-ml
-This repository includes all files that was used while undertaking the Udemy's Python for Data Science and Machine Learning Course
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
